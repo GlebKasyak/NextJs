@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JavaScript post",
+      "body": "Created with <3 for front-end developers who need a quick back-end for prototyping and mocking."
+    },
+    {
+      "id": 2,
+      "title": "React post",
+      "body": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored. Only a value set in a POST request will be respected, but only if not already taken."
+    },
+    {
+      "id": 3,
+      "title": "NextJS post",
+      "body": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data."
+    }
+  ],
+  "about": {
+    "title": "About page"
+  }
+}
